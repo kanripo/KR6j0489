@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:33:33.730045
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:18
 #+TITLE: 摩利支天一印法
 #+PROPERTY: CBETA_ID T21n1259
 #+PROPERTY: ID KR6j0489
